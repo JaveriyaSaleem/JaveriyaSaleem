@@ -1,4 +1,4 @@
-![logo](https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/Purple%20Colorful%20Tech'22%20YouTube%20Channel%20Art.png)
+![logo](https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/new%20banner.png)
 <h1 align="center">Hi 👋, I'm Javeriya Saleem</h1>
 <h3 align="center">A passionate frontend developer and future Full Stack Developer</h3>
 
