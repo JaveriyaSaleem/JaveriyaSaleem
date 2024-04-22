@@ -1,3 +1,4 @@
+![logo](https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Javeriya Saleem</h1>
 <h3 align="center">A passionate frontend developer and future Full Stack Developer</h3>
 
