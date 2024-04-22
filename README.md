@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Javeriya Saleem</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer and future Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" /> 
-- 🌱 I’m currently learning **Full Stack development from SMIT**
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" /> 
+- 🌱 I’m currently learning <b>Full Stack development from SMIT<b/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaveriyaSaleem](https://github.com/JaveriyaSaleem)
 
-- 📫 How to reach me **javeriyasaleem678@gmail.com**
+- 📫 How to reach me <a href="mailto:javeriyasaleem678@gmail.com">javeriyasaleem678@gmail.com<a/>
 
 - ⚡ Fun fact **Despite not having expertise in JavaScript rightnow, I can craft persuasive sliders, dynamic hamburgers for nav, and a myriad of other captivating elements using frameworks to make my website look more appealing. Need some extra flair? I can sprinkle animations too! ✨**
 
