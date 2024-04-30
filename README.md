@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Javeriya Saleem</h1>
 <h3 align="center">A Passionate Frontend Developer and Future Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" /> 
+<img align="right" alt="coding" width="300" src="https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/gif.gif" /> 
 - 🌱 I’m currently learning <b>Full Stack development from SMIT<b/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaveriyaSaleem](https://github.com/JaveriyaSaleem)
