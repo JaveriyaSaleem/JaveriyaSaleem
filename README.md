@@ -10,7 +10,7 @@
 
 - 📫 How to reach me <a href="mailto:javeriyasaleem678@gmail.com">javeriyasaleem678@gmail.com<a/>
 
-- ⚡ Fun fact: I can debug code faster than my chai gets cold! ☕**
+- ⚡ Fun fact: I can debug code faster than my chai gets cold! ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
