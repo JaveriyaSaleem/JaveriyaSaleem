@@ -10,7 +10,7 @@
 
 - 📫 How to reach me <a href="mailto:javeriyasaleem678@gmail.com">javeriyasaleem678@gmail.com<a/>
 
-- ⚡ Fun fact **Despite not having expertise in JavaScript right now, I can craft persuasive sliders, dynamic hamburgers for nav, and a myriad of other captivating elements using frameworks to make my website look more appealing. Need some extra flair? I can sprinkle animations too! ✨**
+- ⚡ Fun fact: I can debug code faster than my chai gets cold! ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
