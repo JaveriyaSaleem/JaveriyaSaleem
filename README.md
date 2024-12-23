@@ -1,4 +1,4 @@
-![logo](https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/Purple%20banner.png)
+![logo](https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/people%20per%20hour's.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javeriyasaleem&label=Profile%20views&color=0e75b6&style=flat" alt="javeriyasaleem" /> </p>
 <h1 align="center">Hi 👋, I'm Javeriya Saleem</h1>
 <h3 align="center">A Passionate Frontend Developer and Future Full Stack Developer</h3>
