@@ -7,8 +7,6 @@
 🥇 Meta Certified Developer </br>
 <!-- ✅ 1+ years of experience in modern web development  </br>  -->
 ✅ Specialized in responsive design and clean, maintainable code </br>
-✅ Clear Communication and collaboration every step of the way </br>
-✅ Let's Connect Today to Build Something Awesome Together! </br>
 </br>
 💡 I am a passionate front-end developer focused on bringing ideas to life with JavaScript, HTML5, CSS3, and frameworks like React. My goal is to craft dynamic, visually appealing, and responsive websites that not only function flawlessly but also leave a lasting impression. </br>
 </br>
