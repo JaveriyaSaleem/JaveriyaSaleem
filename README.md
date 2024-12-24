@@ -1,24 +1,51 @@
 ![logo](https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/people%20per%20hour's.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javeriyasaleem&label=Profile%20views&color=0e75b6&style=flat" alt="javeriyasaleem" /> </p>
 <h1 align="center">Hi, I'm Javeriya Saleem🙌</h1>
-<p align="center">⭐A Front-End Developer based in Karachi, Pakistan.</p>
-<h3 align="center">👨‍💻Open to Work!</h3>
-
-<img align="right" alt="coding" width="300" src="https://github.com/JaveriyaSaleem/JaveriyaSaleem/blob/main/gif.gif" /> 
-- 🌱 I’m currently learning and improving my skills. <b><b/>
-
-- 👨‍💻 All of my projects are available at [https://github.com/JaveriyaSaleem](https://github.com/JaveriyaSaleem)
-
-- 📫 How to reach me <a href="mailto:javeriyasaleem678@gmail.com">javeriyasaleem678@gmail.com<a/>
-
-- ⚡ Fun fact: I can debug code faster than my chai gets cold! ☕
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🙋🏻‍♀️ About Me</h3>
+<br>
+⭐A Dedicated Front-End Developer Who Loves to Create Seamless and Interactive User Experiences </br>
+🥇 Meta Certified Developer </br>
+<!-- ✅ 1+ years of experience in modern web development  </br>  -->
+✅ Specialized in responsive design and clean, maintainable code </br>
+✅ Clear Communication and collaboration every step of the way </br>
+✅ Let's Connect Today to Build Something Awesome Together! </br>
+</br>
+💡 I am a passionate front-end developer focused on bringing ideas to life with JavaScript, HTML5, CSS3, and frameworks like React. My goal is to craft dynamic, visually appealing, and responsive websites that not only function flawlessly but also leave a lasting impression. </br>
+</br>
+🌟 I love tackling challenges, whether it's optimizing performance, creating unique layouts, or building logic that powers the interface. </br>
+<h3>✨ How I Can Help </h3>
+<strong>→ Web Development:</strong> Building interactive and fast-loading user interfaces using modern tech stacks like Bootstrap and TailwindCSS. </br>
+<strong>→ Responsive Design:</strong> Ensuring every pixel looks perfect across devices, from smartphones to desktops. </br>
+<strong>→ UI/UX Improvements:</strong> Making websites intuitive, engaging, and easy to use. </br>
+<strong>→ Team Collaboration:</strong> Communicating effectively to meet deadlines and exceed expectations. </br>
+<h3>🚀 What Sets Me Apart? </h3>
+⭐ Strong attention to detail and design aesthetics </br>
+⭐ Highly organized and efficient, ensuring timely delivery </br>
+⭐ Always up-to-date with the latest tools and technologies </br>
+⭐ Transparent and reliable communication </br>
+<h3 align="left">Skills:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/javeriyasaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javeriyasaleem" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/javeriyaasaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/javeriyaasaleem" height="30" width="40" /></a>
+  <!--   html  -->
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <!--   css  -->
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /> </a>
+<!--   js  -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/ython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<!--   bootstrap  -->
+<a href="https://uiwjs.github.io/bootstrap-icons/index.html" target="_blank" rel="noreferrer"><img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="46" height="36" alt="Bootstrap" /></a>
+<!--   tailwind  -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> 
+  <!--   material ui -->
+<a href="https://mui.com/core/" target="_blank" rel="noreferrer"><img src="https://mui.com/static/logo.svg" width="36" height="36" alt="MaterialUI" /></a> 
+<!-- vite    -->
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<!--   react  -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<!--   next js  -->
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 </p>
+<h3>👨‍💻 Let’s Work Together </h3>
+📍 Whether you're starting a new project or need to enhance an existing one, I’m here to help. Let’s collaborate to build something extraordinary that aligns with your vision!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
 
