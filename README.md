@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javeriyasaleem&label=Profile%20views&color=0e75b6&style=flat" alt="javeriyasaleem" /> </p>
 <h1 align="center">Hi, I'm Javeriya Saleem🙌</h1>
 <h3 align="left">🙋🏻‍♀️ About Me</h3>
-<br>
 ⭐A Dedicated Front-End Developer Who Loves to Create Seamless and Interactive User Experiences </br>
 🥇 Meta Certified Developer </br>
 <!-- ✅ 1+ years of experience in modern web development  </br>  -->
